@@ -1,0 +1,166 @@
+.myTable {
+    height: 100%;
+    width: 100%;
+    background: url(/resource/bodyy.jpg);
+}
+
+.img1 {
+    width: 350px;
+    height: 500px;
+    position: relative;
+    left: 40px;
+    top: 60px;
+    border-radius: 10px;
+    border: 2px solid #9AE04B;
+    animation: anim1 6s;
+    animation-iteration-count: infinite;
+}
+
+.img2 {
+    width: 350px;
+    height: 500px;
+    position: relative;
+    left: 300px;
+    top: 10px;
+    border-radius: 10px;
+    border: 2px solid #9AE04B;
+    animation: anim2 6s;
+    animation-iteration-count: infinite;
+    z-index: 1;
+}
+
+@keyframes anim1 {
+    0%{
+        left: 40px;
+        top: 60px;
+    }
+    50%{
+        left: 280px;
+        top: 240px;
+    }
+    100%{
+       left: 40px;
+        top: 60px;
+    }
+}
+
+@keyframes anim2 {
+    0%{
+        left: 300px;
+        top: 10px;
+    }
+    50%{
+        left: 280px;
+        top: -200px;
+    }
+    100%{
+       left: 300px;
+        top: 10px;
+    }
+}
+
+@keyframes anim {
+    0%{
+        left: 40px;
+        background-color: aqua;
+        opacity: 1;
+    }
+    25%{ 
+        left: 400px;
+        transform: rotate(360deg);
+        background-color: aqua;
+        opacity: 0.3;
+    }
+    50%{
+        left: 650px;
+        transform: rotate(720deg);
+        background-color: blue;
+        opacity: 0.6;
+    }
+    75% {
+        left: 400px;
+        transform: rotate(1080deg);
+        background-color: cadetblue;
+        opacity: 0.1;
+    }
+    100%{
+       left: 40px;
+        transform: rotate(1420deg);
+        background-color: midnightblue;
+        opacity: 1;
+    }
+}
+
+#anim-object {
+    position: relative;
+    left: 40px;
+    top: 20px;
+    height: 50px;
+    width: 50px;
+    border-radius: 30px;
+    background: midnightblue;
+    animation: anim 8s;
+    animation-iteration-count: 3;
+   
+}
+
+.heading {
+    position: relative;
+    color: aliceblue;
+    height: 100px;
+    width: 200px;
+    position: relative;
+    bottom: 345px;
+    left: 400px;
+    box-shadow: 20px 11px 15px;
+    z-index: 2;
+}
+
+.p1 {
+   color: black;
+   font-size: 16pt;
+}
+
+.p2 {
+    color: dimgrey;
+    font-size: 13pt;
+}
+
+.p3 {
+    color: darkred;
+    font-size: 17pt;
+}
+
+.text1 {
+    text-align: left;
+    hyphens: manual;
+    width: 1200px;
+    height: 285px;
+    column-count: 4; 
+    column-gap: 2px;
+    column-rule: 1px solid black;
+    border: 3px solid;
+    background: rgba(255,245,215,0.6);
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 22pt;
+}
+
+.td22 {
+    background-image: url("/resource/backgr.jpg");
+    background-origin:content-box;
+    width: 1100px;
+}
+
+.td1 {
+    width: 800px;
+    height: 700px;
+}
+
+.images-2 {
+    height: 1100px;
+    width: 700px;
+}

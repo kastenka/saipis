@@ -1,0 +1,120 @@
+#firstBlock {
+    position:static;
+    height: 75px;
+    width: 320px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    box-shadow: 0 0 10px rgba(3,3,3,1);
+}
+
+
+#secondBlock {
+    position: relative;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    padding: 33px;
+    box-shadow: 0 0 10px rgba(0,0,0,1);
+
+}
+
+#border-footer {
+    border: 10px solid #ffe6d654;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    padding: 10px;
+}
+
+.name {
+    font-size: 50px;
+    font-family: fantasy;
+    font-weight: 200;
+    margin-left: 35px;
+    color: whitesmoke;
+}
+
+.fixedBlock {
+    text-align: right;
+    width: 70px;
+    height: 25px;
+    position: fixed;
+    right: 80px;
+    bottom: 190px;
+    font-size: 20px;
+    background-color: white; 
+    border: 5px solid black;
+    z-index: 1;
+}
+
+body {
+    background: radial-gradient(circle at 65% 15%, grey, darkblue);
+    margin: 30px;
+}
+
+p > a:visited {
+    color: white;
+}
+
+a{
+    border-right: 1px solid black;
+    padding-right: 25px;
+    margin-left: 20px;
+    font-family: monospace;
+    color: black;
+    font-size: 34px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
+
+.fixedBlock:hover {
+    background-color: black;
+    border:5px solid white;
+}
+.news {
+    margin-left: 370px;
+}
+
+.aboutBand {
+    margin-top: 50px;
+    font-size: 27px;
+}
+
+#image {
+    width: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+figure.img {
+    width: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figure.img img {
+    max-width: 100%;
+    height: auto;
+}
+
+figure.img figcaption {
+    padding: 0;
+    font: italic 90% Georgia,serif;
+}
+
+#newText{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 200px;
+    height: 50px;
+    color:dimgrey;
+}
+
+#newText:hover {
+    color:black;
+    font-style: italic;
+}
