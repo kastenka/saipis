@@ -1,0 +1,140 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <link href="../css/myStyle.css" rel="stylesheet">
+    <title>Laba 4</title>
+</head>
+<body>
+    <header id="hdr">
+        <h1 class="title">Мебельный магазин</h1>
+    </header>
+    <div class="container">
+        <article id="pool">
+            <div id="t">
+               <table id="table" border="5" cellpading="0">
+                   <tr>
+                       <td>Имя</td>
+                       <td>Страна</td>
+                       <td>Материал</td>
+                       <td>Цвет</td>
+                       <td>Стиль</td>
+                       <td>Дата заказа</td>
+                   </tr><br>
+                </table> 
+                <div id="parent">
+                       <p>Список посетителей</p>
+                       <select id="name-select" class="input-style"></select>
+                </div><br>
+                <input type = "submit" class="button-style2" onclick='return back();' value="Вернуться обратно">
+            </div>
+                <form name="opros" id='form' method="get" action='javascript: show();'>
+                    <div class="pool-container" >
+                    <div>
+                        <h4>Опрос: какие шкафы вы предпочитаете?</h4>
+                    </div>
+                    <div>
+                        <label>Ваше имя:</label><br>
+                        <input class="input-style" type="text" name="name" id="idName" placeholder="введите имя" required><br>
+                    </div>
+                    <div>
+                         <label>Какая страна изготовитель лучше для мебели?</label><br>
+                         <input class="radio-style country" type="radio" name="rad" value="Китай" checked>Китай
+                         <input class="radio-style country" type="radio" name="rad" value="США">США
+                         <input class="radio-style country" type="radio" name="rad" value="Россия">Россия   
+                         <input class="radio-style country" type="radio" name="rad" value="Беларусь">Беларусь 
+                         <input class="radio-style country" type="radio" name="rad" value="Польша">Польша<br>
+                    </div>
+                    <div>
+                        <label>Какой материал мебели для Вас предпочтительней?</label><br>
+                        <select id="material" name="choice" class="input-style" id="prior">
+                            <option></option>
+                            <option value="Массив дерева">Массив дерева</option>
+                            <option value="ДСП">ДСП</option>
+                            <option value="ДВП">ДВП</option>
+                            <option value="Фанера">Фанера</option>
+                            <option value="Пластик">Пластик</option>
+                        </select><br>
+                    </div>
+                    <div>
+                        <label>Какой цвет вам больше нравится?</label><br>
+                        <ul>
+                            <input class="checkbox-style color" type="checkbox" id="do" name="interest" value="Чёрный">Чёрный
+                            <input class="checkbox-style color" type="checkbox" id="do" name="interest" value="Коричневый">Коричневый
+                            <input class="checkbox-style color" type="checkbox" id="do" name="interest" value="Белый">Белый
+                        </ul>
+                        <ul>
+                            <input class="checkbox-style color" type="checkbox" id="do" name="interest" value="Серый">Серый
+                            <input class="checkbox-style color" type="checkbox" id="do" name="interest" value="Бордовый">Бордовый
+                            <input class="checkbox-style color" type="checkbox" id="do" name="interest" value="Оранжевый">Оранжевый<br>
+                        </ul>
+                    </div>
+                    <div>
+                        <label>Какой стиль привлекает Вас больше всего?</label><br>
+                        <textarea name="favStyle" class="input-style" placeholder="введите стиль"></textarea><br>
+                    </div>
+                    <div>
+                        <label>Когда был совершен Ваш последний заказ?</label><br>
+                        <input class="input-style" id="date" type="date" name="date" placeholder=""><br>
+                    </div>
+                    <div>
+                        <input type="submit" class="button-style" value="Отправить">
+                        <input type="reset" class="button-style" value="Очистить">
+                        <input type="button" id="newWindow" class="button-style" value="Новое окно">
+                    </div>
+                </div>
+            </form>
+        </article>
+        <nav id="navigation">
+            <div class="nav-container">
+                <ul>
+                    <li>
+                        <a href="">Главная</a>
+                    </li>
+                    <li>
+                         <a href="">Каталог</a>
+                    </li>
+                    <li>
+                         <a href="">О компании</a>
+                    </li>
+                    <li>
+                         <a href="">Акции</a>
+                    </li>
+                </ul>
+                <div class="nav-img"></div>
+            </div>
+        </nav>
+        <aside id="add">
+            <div class="aside-container">
+                <div class="contacts-container">
+                    <h1>Свяжитесь с нами:</h1>
+                        <ul>
+                            <li>+375(44)5552626</li>
+                            <li>+375(29)6673242</li>
+                            <li>+375(29)1676542</li>
+                        </ul>
+                </div>
+                <div class="add-container">
+                    <div class="firstAdd"></div>
+                    <div class="secondAdd"></div>
+                </div>
+            </div>
+        </aside>
+    </div>
+    <footer id="ftr">
+        <div class="ftr-container">
+            <div class="ftr-links">
+            <a href="https://www.facebook.com/kastenka.masha" class="fb" target="_blank" alt="Find me on Facebook"></a>
+            <a href="https://www.instagram.com/kastenkamasha" class="inst" target="_blank" alt="Find me on Instagram"></a>
+            <a href="https://www.t.me/kastenkamasha" class="telega" target="_blank" alt="Find me on Telegram"></a>
+        </div>
+        <div class="ftr-copyright">
+            © 2018  KSTNK
+        </div>
+        </div>
+    </footer>
+    
+    <script src="../JS/script.js"></script>
+</body>
+
+</html>

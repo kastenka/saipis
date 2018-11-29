@@ -1,0 +1,220 @@
+.fb {
+    background-image: url(../resources/fb-icon.png);
+}
+
+.inst {
+    background-image: url(../resources/inst-icon.png);
+}
+
+.telega {
+    background-image: url(../resources/telega-icon.png);
+}
+
+.ftr-links a{
+    height: 25px;
+    width: 25px;
+    display: inline-block;
+    background-size: 25px 25px;
+    margin: 5px;
+}
+
+.ftr-links {
+    margin-top: 10px;
+    margin-left: 100px;
+    float: left;
+}
+.ftr-copyright {
+    margin-top: 20px;
+    margin-right: 100px;
+    float: right;
+}
+
+div {
+    display: block;
+}
+
+#ftr {
+    background-color: azure;
+    font-weight: lighter;
+    min-height: 50px;
+    clear: both;
+}
+
+#hdr {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-top: 2px solid black;
+    background-image: url(../resources/pic3.jpg) ;
+    background-position: top;
+    min-height: 200px;
+}
+
+.ftr-container {
+    font-family: "Gotham SSm A", sans-serif;
+    font-style: italic;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.title {
+    margin: 0 auto;
+    font-size: 75px;
+    margin-left: 50px;
+    padding-top: 40px;
+    color: black;
+    font-family: "Gotham SSm A","Helvetica Neue", fantasy;
+}
+
+.container {
+    
+    display: -webkit-flex;
+    display: flex;
+    flex-wrap: nowrap;
+    float: none;
+    height: 740px;
+}
+
+.nav-container li {
+    color: aliceblue;
+    font-size: 30px;
+    margin-top: 34px;
+}
+
+.nav-container a{
+    color: white;
+    text-decoration: none;
+}
+
+.aside-container li {
+    font-size: 20px;
+    margin-top: 10px;
+}
+#pool {
+    border: 2px solid black;
+    border-bottom-left-radius: 10px;
+    flex-basis: 55%;
+}
+
+#navigation {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    flex-basis: 25%;
+    
+    background-color: cadetblue;
+}
+
+.contacts-container {
+    margin-left: 20px;
+    margin-top: 34px;
+}
+
+#add {
+    border: 2px solid black;
+    flex-basis: 20%;
+    border-bottom-right-radius: 10px; 
+}
+
+
+.add-container {
+    margin-left: 70px;
+    margin-top: 100px;
+}
+.firstAdd {
+    height: 160px;
+    width: 225px;
+    background-size: contain;
+    background-image: url(../resources/add2.jpg) ;
+}
+
+.secondAdd {
+    margin-top: 70px;
+    height: 160px;
+    width: 225px;
+    background-size: contain;
+    background-image: url(../resources/add1.jpg) ;
+}
+
+#table {
+    border: 3px solid black;
+    width: 900px;
+    height: 70px;
+}
+
+#t {
+    margin: 50px;
+    display: none;
+}
+
+#pool{
+    
+    background-image: url(../resources/pic2.jpg)
+}
+.pool-container {
+    position: absolute;
+    margin-left: 190px;
+    font-size: 19px;
+    font-family:"Helvetica";
+}
+.pool-container h4 {
+    font-size: 26px;
+}
+.pool-container div {
+    margin-top:27px;
+}
+
+.pool-container label{ 
+    font-style: italic;
+    font-weight: 600;
+    font-size: 22px;
+}
+
+.input-style {
+    border: 2px solid black;
+    opacity: 0.7;
+    font-size: 14px;
+    height: 40px;
+    border-radius: 5px;
+    padding: 8px;
+    width: 200px;
+}
+
+.radio-style {
+    padding-left: 45px;
+}
+
+.checkbox-style {
+    margin-left: 23px;
+}
+
+.button-style {
+    width: 100px;
+    height: 34px;
+    margin-right: 25px;
+    border: 3px solid black;
+    border-radius: 7px;
+    font-size: 15px;
+    font-family: fantasy;
+}
+
+.button-style2 {
+    width: 150px;
+    height: 34px;
+    margin-right: 25px;
+    border: 3px solid black;
+    border-radius: 7px;
+    font-size: 15px;
+    font-family: fantasy;
+}
+
+.nav-img {
+    margin-top: 60px;
+    margin-left: 25px;
+    height: 250px;
+    width: 400px;
+    background-size: cover;
+    border: 5px solid black;
+    border-radius: 8px;
+    background-image: url(../resources/pic4.jpg);
+}
