@@ -1,0 +1,44 @@
+.class1 {
+    color: red;
+}
+
+.class2 {
+    color: black;
+}
+
+.class3 {
+    color: lawngreen;
+}
+
+.class4 {
+    color: dodgerblue
+}
+
+.class5 {
+    color: orange;
+}
+
+.class6 {
+    color: blue;
+}
+
+.classNew {
+    color: deeppink;
+}
+
+.classLab {
+    margin: 20px;
+}
+
+button {
+    margin-left: 150px;
+    width: 250px;
+    height: 50px;
+    top:300px;
+}
+
+.classLab {
+  height: 80vh;
+}
+
+
