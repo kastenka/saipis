@@ -1,0 +1,75 @@
+body {
+  background-image: url(../resource/background.jpg);
+  background-color: #0085ca;
+  background-size: 100vw;  
+	background-attachment: fixed; 
+  color: white; 
+	text-align: center;
+	font-family: body;
+  text-shadow: 0 0 1vh black;
+}
+
+@font-face {
+    font-family: body;
+    src: url(../resource/fonts/HelveticaNeueCyr-Medium.otf);
+}
+
+form{
+  width: 40%;
+  margin-left: 30%;
+  margin-top: 5%;
+  background-color: rgba(0,0,0,.2);
+  padding-top: 2%;
+  padding-bottom: 2%;
+  border-radius: 2%;
+
+}
+
+
+
+input, select{
+  display: inline-block;
+  color: #003049;
+  font-weight: 700;
+  text-decoration: none;
+  user-select: none;
+  padding: .5em 2em;
+  outline: none;
+  border: 2px solid;
+  border-radius: 1px;
+  transition: 0.2s;
+}
+
+input:hover, select:hover{
+  background: rgba(255,255,255,.2); 
+}
+
+
+body {
+  background-image: url(../resource/background.jpg);
+  background-size: 100vw;
+  background-position: 0 -10vh;
+	background-attachment: fixed; 
+  color: white; 
+	margin: 0; 
+	text-align: center;
+	font-family: abeezee;}
+
+td{
+  width: 10vh;
+  color: white; 
+  border: 0.5vh solid white;
+  padding: 2vh;
+}
+
+table{
+border: 0.5vh solid white;
+border-collapse: collapse;
+margin:10vh;
+margin-left: auto;
+margin-right: auto;
+}
+
+tr:first-child{
+  background-color: rgba(151,166,222,0.5);
+}

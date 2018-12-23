@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="../resource/icon.png" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="../css/style.css">
+<script src="../js/script.js"></script>  
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script data-main="../js/config.js" src="../js/require.js"></script>
+
+<title>Lab9</title>
+
+<script>
+reSelect();
+</script>
+</head>
+
+<body>
+<br><br>	
+	<form>
+		<select id="surnames"></select>
+		<br><br><br>
+
+		<input type="checkbox" id="pension" value="pension" >Наличие корректного коэффициента<br><br>
+
+		<select id="exp" size="1">
+		<option disabled>Выберите стаж</option>
+		<option>Нет стажа</option>
+		<option>Менее 5 лет</option>
+		<option>5-10 лет</option>
+		<option>Более 10 лет</option>			
+		</select><br><br>
+
+		<input type="checkbox" id="breach" value="breach">Наличие больничного листа<br><br>
+
+		<select id="rate" size="1">
+		<option disabled>Выберите тарифную ставку</option>
+		<option>1</option>
+		<option>2</option>
+		<option>3</option>
+		<option>4</option>			
+		</select><br><br>
+
+		<input type="button" value="Сохранить данные" id="saveData" onclick="showSalary($('select#surnames').val(),$('select#rate').val(),$('select#exp').val(),$('#pension').prop('checked'),$('#breach').prop('checked'));"></input>
+		<br><br>
+		<input type="button" value="Вывести з/п" onclick="showAverage();"></input><br><br>
+		<input type="button" value="Вывести информацию" onclick="showInfo($('select#surnames').val());"></input><br><br>
+	</form>
+		
+<table id="infoSotr"></table>
+	<ol id="infoSotr2"></ol>
+</body>
+</html>
