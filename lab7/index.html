@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Lab7</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="Style.css" type="text/css">
+    </head>
+
+    <body>
+    	<form class="line" id="form">
+            <div>
+                <div class="left"> <span class='text'>Город</span> </div>
+                <div class="right"> <input type = "text" name="name1" id = "id1" maxlength = "15" size = "20" class="width"> </div>
+            </div>
+            <div>
+                <div class="left"> <span class='text'>Дата</span> </div>
+                <div class="right"> <input type = "text" name="name2" id = "id2" maxlength = "15" size = "20" class="width"> </div>
+            </div>
+            <div>
+                <div class='text' id="text"></div>
+                <div class="left"> <span class='text'>Цвет текста</span> </div>
+                <div class="right"> <select id = "idColor" name="nameColor" class="width">
+                        <option></option>
+                        <option value = "white"> Белый </option>
+                        <option value = "black"> Чёрный </option>
+                        <option value = "blue"> Синий </option>
+                    </select> </div>
+             </div>
+             <div>
+                <div class="left"> <span class='text'> Размер шрифта </span> </div>
+                <div class="right">
+                        <input type = "radio" id = "id14pt" name = "nameSize" value = "14pt"> 14pt
+                        <input type = "radio" id = "id18pt" name = "nameSize" value = "18pt"> 18pt
+                        <input type = "radio" id = "id24pt" name = "nameSize" value = "24pt" checked> 24pt </div>
+            </div>
+            <div class="but">
+                 <input type = "button" value = "Заполнить поля" onclick = "xml()">
+                 <input type = "button" value = "Узнать подробнее" onclick = "script()">
+                 <input type = "reset" value = "Сбросить">
+            </div>
+            <div class="card">
+                    <div class="card-header">
+                        Ajax log
+                    </div>
+                    <div class="card-body">
+                        <p class="card-text" id="ajaxLog"></p>
+                    </div>
+                </div>
+        </form>
+        
+        <span class="line" id="bind">ИНФОРМАЦИЯ ЗАГРУЗИЛАСЬ НЕКОРРЕКТНО!</span>
+        
+        <script src="js/jquery.min.js"></script>
+		<script src="js/myScript.js"></script>
+    </body>
+</html>

@@ -1,0 +1,123 @@
+
+.text{
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-style:oblique;
+	font-weight:bold;
+	font-size:20px;
+	color:rgba(34,27,27,1.00);
+	
+	width:auto;
+	height:auto;
+	text-shadow:/*5px 5px 5px #000000, */0 0 1em #FFFFFF;
+	font-size:24px;
+	padding:2%;
+	text-indent:20px;
+}
+
+.left{
+	display:inline-block;
+	text-align:right;
+	width:40%;
+}
+
+.right{
+	display:inline-block;
+	text-align:left;
+	width:30%;
+	padding:2%;
+}
+
+.width{
+	width:70%;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-style:oblique;
+	font-weight:bold;
+	font-size::20px;
+	color:rgba(34,27,27,1.00);
+}
+
+.but {
+	margin-left:40%;
+}
+
+#bind {
+	display:none;
+	position:absolute;
+	float:right;
+	width:250px;
+	margin-top:100px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-style:oblique;
+	font-weight:bold;
+	font-size:20px;
+	color:rgba(34,27,27,1.00);
+}
+
+#form {
+	width:70%;}
+
+.line {display:inline-block; }
+
+.class1{
+    text-decoration-color: aqua;
+}
+
+
+body {
+  background-image: url(images/background1.jpg);
+  background-size: 100vw;  
+  color: white; 
+	font-family: body;
+  text-shadow: 0 0 1vh black;
+    text-align: center;
+}
+
+
+
+form{ 
+  margin-top: 5%;
+  background-color: rgba(0,0,0,.2);
+  padding-top: 2%;
+  padding-bottom: 2%;
+  border-radius: 3%;
+}
+
+#idColor{
+    border-radius: 10px;
+    border-color: white;
+    font-family:monospace;
+    font-weight:bold;
+    font-size: 15px;
+    height: 40px;
+}
+
+input[type=radio]{
+    border-radius: 10px;
+    border-color: white;
+    font-family:monospace;
+    font-weight:bold;
+    font-size: 15px;
+    height: 40px;
+    width: 30px;
+}
+
+input[type=text]{
+    border-radius: 10px;
+    border-color: white;
+    font-family:monospace;
+    font-weight:bold;
+    font-size: 15px;
+    height: 30px;
+}
+
+
+input[type=button],[type=reset]{
+    border-radius: 10px;
+    border-color: white;
+    font-family:monospace;
+    font-weight:bold;
+    font-size: 15px;
+    height: 40px;
+}
+
+
