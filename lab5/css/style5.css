@@ -1,0 +1,112 @@
+body {
+  background-image: url(../resource5/o3aJxdfO900.jpg);
+  background-size: 100vw;
+  background-position: 0 -10vh;
+  color: white;  
+  text-align: center;
+  font-family: body;
+}
+
+
+form{
+   width: 40%;
+   padding-left: 30%;
+   padding-right: 30%;   
+   color: white;
+   text-shadow: 0 0 1vh black;
+}
+
+input,textarea,select,button{
+  
+  background-color: white; 
+    font-size: 25px;
+  transition: 0.5s;
+  font-family: body;
+}
+
+::placeholder { 
+  color: antiquewhite;
+  opacity: 0.6; 
+}
+
+input:focus, textarea:focus,select:focus,button:focus
+{
+  background-color: deepskyblue;
+}
+
+select{margin-top: 3vh;  
+   -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
+   
+   -webkit-user-select: none;
+   background-position: 97% center;
+   background-repeat: no-repeat;
+   border: 2px solid #040f18;
+   color: white;
+    opacity: 0.8;
+    font-size: 20px;
+   margin: 20px;
+   overflow: hidden;
+   padding: 5px 10px;
+   white-space: nowrap;
+   width: 15vw;
+}
+
+
+
+input{margin-top: 3vh;  
+   -webkit-appearance: button;
+   -webkit-border-radius: 0px;
+   -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
+   -webkit-padding-end: 20px;
+   -webkit-padding-start: 2px;
+   -webkit-user-select: none;
+   background-image:-webkit-linear-gradient(#18545f, #216e7c 40%, #288394);
+   background-position: 97% center;
+   background-repeat: no-repeat;
+   border: 1px solid #040f18;
+   color: white;
+   font-size: 22px;
+   margin: 20px;
+   overflow: hidden;
+   padding: 5px 10px;
+   text-overflow: ellipsis;
+   white-space: nowrap;
+   width: 25vw;
+}
+
+table{
+border-collapse: collapse;
+border: 0.5vh solid white;
+margin:10vh;
+margin-left: auto;
+margin-right: auto;
+  color: white;
+  text-shadow: 0 0 1vh black;
+}
+
+td{
+  width: 10vh;
+  color: white; 
+  border: 0.5vh solid white;
+  padding: 2vh;
+}
+
+
+
+tr:first-child{
+  background-color: rgba(15,161,222,0.5);
+}
+
+
+input,textarea,select{
+  background-color: white;
+  border-radius: 7px;
+  transition: 0.5s;
+}
+
+#addClassButton, #clearFormButton, #deleteClassButton, #showClassesButton {
+    border-radius: 10px;
+    height: 40px;
+    font-family:fantasy;
+    font-size: 20px;
+}
