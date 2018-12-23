@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57dcfec8-7465-4eb3-81cf-d107e5a75944" name="Default" comment="JQuery.ajax()">
+      <change afterPath="$PROJECT_DIR$/../5lab/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5lab/back2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5lab/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5lab/html/myIndex.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5lab/js/javascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6lab/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6lab/html/myindex.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6lab/js/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6lab/resources/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/XMLfile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/images/background1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/js/XMLfile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/js/jquery-1.11.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/js/myScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/css/buttons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/html/json/department.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/js/breachCount.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/js/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/js/expCount.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/js/mustache.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/js/o3aJxdfO900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/js/pensionCount.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/js/rateCount.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/js/reSelect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/js/require.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/js/showAverage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/resource/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/resource/background1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/resource/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/resource/Снимок.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2laba/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2laba/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2laba/resource/1pic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2laba/resource/2pic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2laba/resource/backgr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2laba/resource/bodyy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2laba/resource/ideaIU-2018.2.4.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2laba/resource/jdk-11_windows-x64_bin.exe" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1037">
+              <caret line="61" column="35" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/js/decrease.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/js/casual.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/js/increase.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="40" selection-start-column="40" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/css/client.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/js/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1190">
+              <caret line="70" column="34" selection-end-line="214" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/js/client.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>readTable</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/client/css/client.css" />
+        <option value="$PROJECT_DIR$/server/js/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1615" />
+    <option name="height" value="880" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lab9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab9" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab9" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57dcfec8-7465-4eb3-81cf-d107e5a75944" name="Default" comment="" />
+      <created>1545116445263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545116445263</updated>
+      <workItem from="1545116446549" duration="76000" />
+      <workItem from="1545374408565" duration="6082000" />
+      <workItem from="1545498767394" duration="642000" />
+      <workItem from="1545522176254" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7399000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="55" y="-8" width="1873" height="1096" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25177112" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32917964" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32917964" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JQuery.ajax()" />
+    <option name="LAST_COMMIT_MESSAGE" value="JQuery.ajax()" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/server/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="35" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/decrease.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/casual.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/css/client.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" column="34" selection-end-line="214" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/js/client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/increase.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
